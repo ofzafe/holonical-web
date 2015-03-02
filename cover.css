@@ -72,6 +72,7 @@ body {
  * Header
  */
 .masthead-brand {
+  font-family: 'Asap', sans-serif;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -126,6 +127,9 @@ body {
   font-weight: bold;
 }
 
+.lead, .cover-heading {
+  font-family: 'Noto Sans', sans-serif;
+}
 
 /*
  * Footer
